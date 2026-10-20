@@ -1,2 +1,7 @@
-# learning-projects
-Practice projects and coursework as I learn web development with Next.js.
+# Learning Projects
+
+A collection of my coursework, assignments, and practice projects.
+
+## Structure
+- `assignment-1/`
+- `assignment-2/`
